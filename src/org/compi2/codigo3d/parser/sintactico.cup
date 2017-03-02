@@ -11,7 +11,6 @@ parser code
     }
 
     public void unrecovered_syntax_error(Symbol s) throws java.lang.Exception{ 
-        System.err.println("T.T");
         System.err.println(s);
     }
 
