@@ -17,7 +17,7 @@ parser code
 :}
 
 action code
-{://Codigo de acciones    :}
+{://Codigo_de_acciones:}
 
 terminal String ID, ENTERO, DECIMAL;
 terminal TokenC3D MAS, MENOS, MULT, DIV, POT, PAR_IZQ, PAR_DER,IGUAL,DIFERENTE,MAYOR,MENOR,MAYOR_IGUAL,MENOR_IGUAL,AND,OR,NOT;
